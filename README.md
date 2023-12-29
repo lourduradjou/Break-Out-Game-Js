@@ -10,7 +10,6 @@ Welcome to the Breakout Game repository! This project is a classic implementatio
 
 - **Scoring System:** Keep track of your performance with a built-in scoring system. Compete with yourself or challenge friends to beat high scores.
 
-- **Responsive Design:** Enjoy a seamless gaming experience across various devices, thanks to the responsive design and layout.
 
 ## How to Play:
 
